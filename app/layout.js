@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "The Intern Insider",
-  description: "A practical guide to landing big tech internships."
+  title: "Fridge Chef",
+  description: "Turn your ingredients into recipe ideas — powered by AI."
 };
 
 export default function RootLayout({ children }) {
